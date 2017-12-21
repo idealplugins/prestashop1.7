@@ -1,0 +1,14 @@
+.digi-checkbox{
+  margin-bottom: 10px;
+}
+.digi-label{
+  min-height: 20px;
+  padding-left: 25px;
+  margin-bottom: 0px;
+  cursor: pointer;
+  display: inline-block;
+}
+.digi-radio {
+  margin-left: -25px;
+  position: absolute;
+}
